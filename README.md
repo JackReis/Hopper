@@ -1,30 +1,23 @@
 # Hopper Plugin
 
-Because nobody likes awkward line crashes.
+*Because nobody likes awkward line crashes.*
 
--- 
+> Adds an arc to allow representation of a 'raised intersection' where two straight vectors intersect (for now). Credit to Ian Latchmansingh for [wishing this into existence](https://medium.com/@usonesinbetween/the-user-experience-circuit-8c373ea957b2).
 
-Adds an arc to allow representation of a 'raised intersection' where two straight vectors intersect (for now). Credit to Ian Latchmansingh for [wishing this into existence](https://medium.com/@usonesinbetween/the-user-experience-circuit-8c373ea957b2).
+⚜️
 
---
-
-*Known issues:*
+## Known issues:
 
 When used on actual LINE objects (not vector segments drawn with the pen tool) the arc ends up in a weird spot.
 
---
+## Speculative roadmap:
 
-Roadmap:
-
-- FigJam
-- multi-segment lines
-- multi-line
-
---
+- FigJam, 
+- multi-segment lines, accept multi-line input?
 
 BELOW THIS LINE everything is straight from Figma plugin instructions (easier to just install from [community page for the plugin](https://www.figma.com/community/plugin/1525183859635541717/hopper) ... but if you want to develop this further, please have at it.
 
---
+---
 
 Below are the steps to get your plugin running. You can also find instructions at:
 
