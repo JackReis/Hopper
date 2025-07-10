@@ -1,3 +1,19 @@
+# Hopper Plugin
+
+Because nobody likes awkward line crashes.
+
+-- 
+
+from Figma plugin instructions (easier to just install from [community page for the plugin](https://www.figma.com/community/plugin/1525183859635541717/hopper) ... but if you want to develop this further, please have at it.
+
+Roadmap:
+
+- FigJam
+- multi-segment lines
+- multi-line
+
+--
+
 Below are the steps to get your plugin running. You can also find instructions at:
 
   https://www.figma.com/plugin-docs/plugin-quickstart-guide/
