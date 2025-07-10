@@ -6,13 +6,13 @@ Because nobody likes awkward line crashes.
 
 Adds an arc to allow representation of a 'raised intersection' where two straight vectors intersect (for now). Credit to Ian Latchmansingh for [wishing this into existence](https://medium.com/@usonesinbetween/the-user-experience-circuit-8c373ea957b2).
 
-
+--
 
 *Known issues:*
 
 When used on actual LINE objects (not vector segments drawn with the pen tool) the arc ends up in a weird spot.
 
-
+--
 
 Roadmap:
 
